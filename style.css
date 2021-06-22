@@ -1,0 +1,30 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f7ea77;
+    }
+
+h1 { color : #ff6803 ;
+ }
+h2 {color : #ff6803;
+}
+#page-title { font-size: 65px ;
+}
+td {
+   border: 1px solid black ;
+   padding: 10px ; 
+}
+
+thead { font-weight: bold;
+       color:  #475794 
+       }
+
+thead td { text-align: center;
+
+}
+tbody {color : #475794; 
+}
+ul {color : #475794;
+}
+
+p { color : #475794 ; 
+}
